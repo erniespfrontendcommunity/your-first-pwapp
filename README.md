@@ -1,3 +1,7 @@
+# Slides from the presentation
+
+[Here](https://docs.google.com/presentation/d/1p17R_lGapqgQ5vZ3L369lUWN_3LSezTkk3JBJdPVzBk/edit?usp=sharing) you can find the slides from the presentation
+
 # Your first Progressive Web App Code Lab
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
